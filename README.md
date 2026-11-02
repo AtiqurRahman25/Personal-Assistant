@@ -94,10 +94,6 @@ Contributions, suggestions, and improvements are welcome!
 
 If you have ideas to improve this project, feel free to fork the repository and submit a pull request.
 
-## 📄 License
-
-This project is available under the MIT License unless otherwise specified.
-
 ## 👨‍💻 Author
 
 **Md. Atiqur Rahman Sifat**
