@@ -40,7 +40,7 @@ Before setting up the project, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/AtiqurRahman25/Personal-Assistant.git
 ```
 
 ### 2. Open n8n
